@@ -1,0 +1,9 @@
+2024-01-06 20:38:02.615 [info] Experiment 'pythonaacf' is active
+2024-01-06 20:38:02.615 [info] Experiment 'pythonRecommendTensorboardExtcf' is active
+2024-01-06 20:38:02.615 [info] Experiment 'pythonREPLSmartSend' is active
+2024-01-06 20:38:02.616 [info] Experiment 'pythonSurveyNotification' is active
+2024-01-06 20:38:02.616 [info] Experiment 'pythonTerminalEnvVarActivationcf' is active
+2024-01-06 20:38:02.616 [info] Experiment 'pythonTestAdapter' is active
+2024-01-06 20:38:02.616 [info] Test server listening.
+2024-01-06 20:38:02.616 [info] Python interpreter path: /bin/python
+2024-01-06 20:38:04.043 [info] Starting Pylance language server.

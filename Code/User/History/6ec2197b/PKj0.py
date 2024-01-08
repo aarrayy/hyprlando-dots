@@ -1,0 +1,2 @@
+def calculadora(n):
+    sumar = 
